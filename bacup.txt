@@ -1,0 +1,199 @@
+ <!-- Features -->
+            <section class="features-section has-blurry-shape position-relative overflow-hidden py-10 py-lg-15 ">
+                <!-- <div class="col-lg-6">
+                    <img src="./assets/images/enlarge_char_2.png" alt="">
+                </div> -->
+                <div class="container">
+                    <div class="text-center mb-18">
+                        <h1 class=" mb-0" data-aos="fade-up-sm" data-aos-delay="50">
+                            Generate Creative AI Copy On-The-Spot, <br class="d-none d-lg-block" /> Across Your Favorite Tools
+                        </h1>
+                    </div>
+
+                    <div class="row row-cols-1 row-cols-lg-3 g-6 g-xl-14">
+                        <div class="col" data-aos="fade-up-sm" data-aos-delay="100">
+                            <div class="d-flex flex-column flex-lg-row gap-6">
+                                <div class="icon w-14 h-14 flex-shrink-0 d-flex align-center justify-center rounded-3 p-2 border bg-primary bg-opacity-10 text-primary border-primary border-opacity-25">
+                                    <h4 class="mb-0">01</h4>
+                                </div>
+                                <div class="content">
+                                    <h4 class=" mb-4">Generates quality contents</h4>
+                                    <p>
+                                        This tool helps you find the right keywords to target for your content. By using the Google Keyword Planner, you can see how often people
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col" data-aos="fade-up-sm" data-aos-delay="150">
+                            <div class="d-flex flex-column flex-lg-row gap-6">
+                                <div class="icon w-14 h-14 flex-shrink-0 d-flex align-center justify-center rounded-3 p-2 border bg-primary bg-opacity-10 text-primary border-primary border-opacity-25">
+                                    <h4 class="mb-0">02</h4>
+                                </div>
+                                <div class="content">
+                                    <h4 class=" mb-4">Provides Useful Suggestions</h4>
+                                    <p>
+                                        GenAI writing tools can analyze data and generate insights to help writers create more compelling and informative content.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col" data-aos="fade-up-sm" data-aos-delay="200">
+                            <div class="d-flex flex-column flex-lg-row gap-6">
+                                <div class="icon w-14 h-14 flex-shrink-0 d-flex align-center justify-center rounded-3 p-2 border bg-primary bg-opacity-10 text-primary border-primary border-opacity-25">
+                                    <h4 class="mb-0">03</h4>
+                                </div>
+                                <div class="content">
+                                    <h4 class=" mb-4">Improves Products Productivity</h4>
+                                    <p>
+                                        Emotions are a powerful tool in advertising. Use emotions that resonate with your audience to create a connection.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="text-center mt-12">
+                        <a href="login.html" class="btn btn-primary">Try a demo</a>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Features -->
+            <section class="py-10 py-lg-15 ">
+                <div class="container">
+                    <div class="bg-lite-blue rounded-4 p-6 p-md-12 px-xl-20 py-xl-12 hover-border mb-18">
+                        <div class="row g-6 g-lg-14 g-xl-20 align-center">
+                            <div class="col-lg-6" data-aos="fade-up-sm" data-aos-delay="50">
+                                <div class="content">
+                                    <p class="text-primary">Features 1</p>
+                                    <h1 class=" mb-8">
+                                        Let's Create AI-Powered Content With A Single Click.
+                                    </h1>
+                                    <p class="mb-6">
+                                        To create powerful content, you need to know who you're targeting. Identify your target audience and understand their needs, interests, and pain points.
+                                    </p>
+                                    <ul class="list-unstyled list-check mb-8">
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18" class="icon">
+                                                <g>
+                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m3.75 9 3.75 3.75 7.5-7.5" />
+                                                </g>
+                                            </svg>
+                                            <span>Start creating powerful content, for your next ads</span>
+                                        </li>
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18" class="icon">
+                                                <g>
+                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m3.75 9 3.75 3.75 7.5-7.5" />
+                                                </g>
+                                            </svg>
+                                            <span>Let's Communicate with your customers with emotions</span>
+                                        </li>
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18" class="icon">
+                                                <g>
+                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m3.75 9 3.75 3.75 7.5-7.5" />
+                                                </g>
+                                            </svg>
+                                            <span>Use visuals like images, videos, or infographics to make your content more
+									engaging</span>
+                                        </li>
+                                    </ul>
+                                    <a href="login.html" class="arrow-link arrow-link-primary text-primary gap-3">
+                                        <span>Get Started Free</span>
+                                        <svg class="icon" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M4 12.6667L12.6667 4M12.6667 4V12.32M12.6667 4H4.34667" stroke="currentColor" stroke-width="1.21" stroke-linecap="round" stroke-linejoin="round" />
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6" data-aos="fade-up-sm" data-aos-delay="100">
+                                <div class="feature-img">
+                                    <img src="assets/images/illustrations/feature-illustration-1-blue.svg" alt="" class="img-fluid" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bg-lite-blue rounded-4 p-6 p-md-12 px-xl-20 py-xl-12 hover-border mb-18">
+                        <div class="row g-6 g-lg-14 g-xl-20 align-center flex-row-reverse">
+                            <div class="col-lg-6" data-aos="fade-up-sm" data-aos-delay="50">
+                                <div class="content">
+                                    <p class="text-primary">Features 2</p>
+                                    <h1 class=" mb-8">
+                                        A Magical Tool To Optimize Your Content For First Page Rankings
+                                    </h1>
+                                    <p class="mb-6">
+                                        A Magical Tool to Optimize you content for the first know who you're targeting. Identify your target audience and understand their needs, interests, and pain points.
+                                    </p>
+                                    <a href="login.html" class="arrow-link arrow-link-primary text-primary gap-3">
+                                        <span>Request A Demo</span>
+                                        <svg class="icon" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M4 12.6667L12.6667 4M12.6667 4V12.32M12.6667 4H4.34667" stroke="currentColor" stroke-width="1.21" stroke-linecap="round" stroke-linejoin="round" />
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6" data-aos="fade-up-sm" data-aos-delay="100">
+                                <div class="feature-img">
+                                    <img src="assets/images/illustrations/feature-illustration-2-blue.svg" alt="" class="img-fluid" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bg-lite-blue rounded-4 p-6 p-md-12 px-xl-20 py-xl-12 hover-border">
+                        <div class="row g-6 g-lg-14 g-xl-20 align-center">
+                            <div class="col-lg-6" data-aos="fade-up-sm" data-aos-delay="50">
+                                <div class="content">
+                                    <p class="text-primary">Features 3</p>
+                                    <h1 class=" mb-8">
+                                        Write Blog Posts, Stories, & Even Books With
+                                        <span class="text-primary">GenAI</span>.
+                                    </h1>
+                                    <p class="mb-6">
+                                        To create powerful content, you need to know who you're targeting. Identify your target audience and understand their needs, interests, and pain points.
+                                    </p>
+                                    <ul class="list-unstyled list-check mb-8">
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18" class="icon">
+                                                <g>
+                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m3.75 9 3.75 3.75 7.5-7.5" />
+                                                </g>
+                                            </svg>
+                                            <span>Start creating powerful content, for your next ads</span>
+                                        </li>
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18" class="icon">
+                                                <g>
+                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m3.75 9 3.75 3.75 7.5-7.5" />
+                                                </g>
+                                            </svg>
+                                            <span>Let's Communicate with your customers with emotions</span>
+                                        </li>
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18" class="icon">
+                                                <g>
+                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m3.75 9 3.75 3.75 7.5-7.5" />
+                                                </g>
+                                            </svg>
+                                            <span>Use visuals like images, videos, or infographics to make your content more
+									engaging</span>
+                                        </li>
+                                    </ul>
+                                    <a href="login.html" class="arrow-link arrow-link-primary text-primary gap-3">
+                                        <span>Get Started Free</span>
+                                        <svg class="icon" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M4 12.6667L12.6667 4M12.6667 4V12.32M12.6667 4H4.34667" stroke="currentColor" stroke-width="1.21" stroke-linecap="round" stroke-linejoin="round" />
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6" data-aos="fade-up-sm" data-aos-delay="100">
+                                <div class="feature-img">
+                                    <img src="assets/images/illustrations/feature-illustration-3-blue.svg" alt="" class="img-fluid" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
